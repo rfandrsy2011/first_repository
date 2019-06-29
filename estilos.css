@@ -1,0 +1,88 @@
+#titulo{
+		background: #F48FB1;
+		color:white;
+		font-size: 30px;
+		font-family: Buxton Sketch;
+		font-weight: bold;
+		border: 1px solid #999999;
+		text-align: center;
+		}
+#tituloDulces{
+		background: #F48FB1;
+		color:white;
+		font-size: 20px;
+		font-family: Buxton Sketch;
+		font-weight: bold;
+		border: 1px solid #999999;
+		text-align: center;
+			}
+#body{
+	background-image: url("./imagenes/fondoD.jpg");
+	}
+#centro{
+		background: #FFCCD9;
+		width:1000px;
+		margin: 30px auto;
+		padding: 30px;
+		}
+#navegacion{
+		background: #F48FB1;
+		}
+#navegacion li{
+		list-style: none;
+		font: bold 20px Buxton Sketch;
+		padding: 5px;
+		display: inline-block;
+		overflow: auto;
+		}
+#welcome{
+		background: url('./imagenes/payaso.jpg') no-repeat center;
+		height: 400px;
+		padding: 10px;
+		margin: 30px auto;
+		}
+		
+#tiposdulces{
+  height: 60px;
+  
+  padding-top: 100px;
+  
+}
+.tamarindos {
+  padding: 5px;
+  margin-bottom: 10px;
+  border-radius: 60px;
+  opacity: 0.9;
+}
+
+.text-primary {
+		color:#F48FB1;
+		margin-left: 10%;
+}
+		
+#principal{
+		margin: 15px;
+		border: 1px solid black;
+		width: 60%;
+		padding: 15px;
+		float: left;
+		}
+#columna{
+		width: 30%;
+		border: 1px solid black;
+		float: left;
+		margin: 15px 0;
+		}
+		#columna blockquote{
+			border: 1px solid black;
+			padding: 40px;
+			background: #F48FB1; 
+			margin-bottom: 20px;
+		}
+#pie{
+	
+	clear: both;
+	text-align: center;
+	background: #2d3436;
+	color: white;
+	}
