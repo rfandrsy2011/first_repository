@@ -106,7 +106,7 @@ h1, h2, h3 {
 /* Bienvenida */
 
 #welcome {
-  background: url('./imagenes/fondo2.jpg') no-repeat center center/cover;
+  background: url('./Imagenes/fondo2.jpg') no-repeat center center/cover;
   height: 800px;
   
 }
